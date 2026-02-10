@@ -1,1 +1,2 @@
 Funkcja dodawania treningu
+Walidacja danych treningu
