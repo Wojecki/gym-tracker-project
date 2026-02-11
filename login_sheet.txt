@@ -1,1 +1,1 @@
-Zmiana main dla symulacji konfliktu
+MAIN VERSION: użytkownik dodaje trening
