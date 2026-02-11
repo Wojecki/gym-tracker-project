@@ -1,1 +1,2 @@
 FEATURE VERSION: trening zapisany w systemie
+Main Version: użytkownik dodaje trening
